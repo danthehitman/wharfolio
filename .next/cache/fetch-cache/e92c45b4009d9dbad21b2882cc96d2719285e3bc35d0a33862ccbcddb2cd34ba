@@ -1,1 +1,0 @@
-{"kind":"FETCH","data":{"headers":{"connection":"keep-alive","content-type":"application/json","date":"Sat, 11 Mar 2023 22:05:32 GMT","keep-alive":"timeout=5","transfer-encoding":"chunked","vary":"RSC, Next-Router-State-Tree, Next-Router-Prefetch"},"body":"eyJkYXRhIjpbeyJ0aXRsZSI6InRpdGxlMSJ9LHsidGl0bGUiOiJ0aXRsZTIifV19"},"revalidate":31536000}

@@ -1,6 +1,4 @@
 {
-  "/blog/[[...category]]/page": "app/blog/[[...category]]/page.js",
-  "/page": "app/page.js",
-  "/portfolio/page": "app/portfolio/page.js",
-  "/about/page": "app/about/page.js"
+  "/about/page": "app/about/page.js",
+  "/api/users/[id]/settings/route": "app/api/users/[id]/settings/route.js"
 }

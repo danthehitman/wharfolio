@@ -1,4 +1,4 @@
-// File: D:\Dan\Dev\FFI_Webapp_101\temp\app\page.js
+// File: C:\Dan\Dev\wharfolio\class_project\app\page.js
 import * as entry from '../../../app/page'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface'
 

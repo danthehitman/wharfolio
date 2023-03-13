@@ -12,8 +12,8 @@ export default function TopNav({ linkItems }) {
   return (
     <div className={styles.topnav}>
       {linkItems.map((item) => (
-        <div>
-          <Link href={item.address}>{item.text}</Link>
+        <div key={item.text}>
+          <Link  href={item.address}>{item.text}</Link>
         </div>
       ))}
     </div>

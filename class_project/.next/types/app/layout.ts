@@ -1,4 +1,4 @@
-// File: D:\Dan\Dev\FFI_Webapp_101\temp\app\layout.js
+// File: C:\Dan\Dev\wharfolio\class_project\app\layout.js
 import * as entry from '../../../app/layout'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface'
 

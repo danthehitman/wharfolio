@@ -1,5 +1,10 @@
-export async function GET(request, {params}) {
-    const data = [{ userId: params.id, route: "users/settings"}];
-    console.log(`Data fetched ${data}`);
-    return Response.json(data);
-  }
+export async function GET(request, { params }) {
+  const data = {
+    userId: params.id,
+    links: [
+      { text: "Home", address: "/" },
+      { text: "Blog", address: "/blog" },
+    ],
+  };
+  return Response.json(data);
+}

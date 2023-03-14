@@ -13,7 +13,7 @@ export default function TopNav({ linkItems }) {
     <div className={styles.topnav}>
       {linkItems.map((item) => (
         <div key={item.text}>
-          <Link  href={item.address}>{item.text}</Link>
+          <Link href={item.address}>{item.text}</Link>
         </div>
       ))}
     </div>
